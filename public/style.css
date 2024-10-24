@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(70, 62, 62);
+}
+
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: greenyellow;
+}
+
+.logoName ul li {
+    list-style: none;
+}
+
+.linkMenu ul li {
+    display: inline;
+    margin: 20px;
+}
