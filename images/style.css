@@ -1,0 +1,27 @@
+body {
+    background-image: linear-gradient(to bottom right, #00F490,#00BBC9);
+}
+
+
+
+.jumbotron {
+    background-color: rgba(0, 0, 255, 0);
+}
+
+h5.card-title {
+    color: red;
+}
+
+.btn:hover:hover  {
+    background-color: rgb(49, 156, 223);
+    border-color: #00BBC9;
+}
+
+a.nav-link {
+    font-size: 2rem;
+
+}
+
+/* a.nav-link:hover {
+    background-color: gray;
+} */
